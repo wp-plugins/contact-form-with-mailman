@@ -13,16 +13,16 @@ Creates a simple contact form with a check box to subscribe to a mailman mailing
 This plugin creates a simple contact form with a check box to subscribe to a mailman mailing list. The config is in the main file. Future versions will include the settings directly in the Wordpress admin.
 
 == Installation ==
-1. Upload the contents of the zip to the \'/wp-content/plugins/\' directory.
+1. Upload the contents of the zip to the '/wp-content/plugins/' directory.
 2. Navigate to the plugins dashboard
-3. Search for \'Contact Form with Mailman\'
-4. Click \'Activate\'
-5. Click on \'Edit\' under \'Contact Form with Mailman\'
+3. Search for 'Contact Form with Mailman'
+4. Click 'Activate'
+5. Click on 'Edit' under 'Contact Form with Mailman'
 6. Just under the plugin info there is a config function with 3 variables. Fill this in to match your mailman mailing list.
-7. Click \'Update File\'
-8. Add the short code \'[mailman_contact_form]\' to any page or post you would like the form to display on.
+7. Click 'Update File'
+8. Add the short code '[mailman_contact_form]' to any page or post you would like the form to display on.
 
-You\'re done!
+You're done!
 
 == Frequently Asked Questions ==
 First release, no questions have been asked yet.
