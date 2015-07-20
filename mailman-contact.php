@@ -2,7 +2,7 @@
 /*
 Plugin Name: Contact Form with Mailman
 Description: Simple contact for with a check box to subscribe to a mailman mailing list
-Version: 1.1.3
+Version: 1.1.2
 Author: Jeff Craft
 Author URI: http://jeffcraft.ca
 License: GPLv2 or later
