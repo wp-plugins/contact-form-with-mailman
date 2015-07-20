@@ -25,12 +25,19 @@ This plugin creates a simple contact form with a check box to subscribe to a mai
 You're done!
 
 == Frequently Asked Questions ==
-First release, no questions have been asked yet.
+Q: Can you update the mailing list settings in the admin?
+A: At the moment no but this will be coming in a future release.
 
 == Screenshots ==
 1. This is what the output looks like.
 
 == Changelog ==
+= 1.1.2 =
+* Subscribe to mailing list checkbox is now checked by default.
+
+= 1.1.1 =
+* I honestly don't remember what I did for this update.
+
 = 1.1.0 =
 * Added prefix to each function to eliminate conflicts
 
@@ -38,4 +45,4 @@ First release, no questions have been asked yet.
 * Inital release
 
 == Upgrade Notice ==
-First release, no upgrades have been published yet.
+The update will clear your settings!! Please make a copy of your settings before you update.
