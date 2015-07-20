@@ -2,7 +2,7 @@
 /*
 Plugin Name: Contact Form with Mailman
 Description: Simple contact for with a check box to subscribe to a mailman mailing list
-Version: 1.1.2
+Version: 1.1.3
 Author: Jeff Craft
 Author URI: http://jeffcraft.ca
 License: GPLv2 or later
@@ -41,7 +41,7 @@ function cfwm_html_form_code() {
     echo '</p>';
     echo '<p>';
     echo 'Subscribe to mailing list?<br />';
-    echo '<input type="checkbox" name="cf-subscribe" />';
+    echo '<input type="checkbox" name="cf-subscribe" checked />';
     echo '</p>';
     echo '<p>';
     echo 'Your Message (required) <br />';
